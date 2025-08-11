@@ -1,6 +1,6 @@
 <h3 align="center">
     <img src="https://raw.githubusercontent.com/onedarktheme/onedark/master/assets/logos/onedark-logo-1544x1544.png" width="100" alt="onedark logo"/></br>
-    OneDark for <a href="https://github.com/onedarktheme/template">App</a>
+    OneDark Toolbox 
 </h3>
 
 ## OneDark's development tools
