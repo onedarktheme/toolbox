@@ -3,26 +3,9 @@
     OneDark for <a href="https://github.com/onedarktheme/template">App</a>
 </h3>
 
+## OneDark's development tools
 
-## 👀 Previews
-
-<details>
-<summary>🌑 Dark</summary>
-</details>
-
-<details>
-<summary>🧊 Frost</summary>
-</details>
-
-<details>
-<summary>🔥 Ember</summary>
-</details>
-
-<details>
-<summary>👻 Wraith</summary>
-</details>
-
-## ✍ Usage
+A set of tools to work on OneDark
 
 ### 📜 License
 
