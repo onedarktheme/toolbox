@@ -3,13 +3,23 @@
     OneDark Toolbox 
 </h3>
 
+<p align="center">
+    <a href="https://github.com/onedarktheme/toolbox/stargazers"><img src="https://img.shields.io/github/stars/onedarktheme/toolbox?colorA=282c34&colorB=c678dd&style=for-the-badge"></a>
+    <a href="https://github.com/onedarktheme/toolbox/issues"><img src="https://img.shields.io/github/issues/onedarktheme/toolbox?colorA=282c34&colorB=d19a66&style=for-the-badge"></a>
+    <a href="https://github.com/onedarktheme/toolbox/contributors"><img src="https://img.shields.io/github/contributors/onedarktheme/toolbox?colorA=282c34&colorB=98c379&style=for-the-badge"></a>
+</p>
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/onedarktheme/onedark/master/assets/palette/dark.png" width="400" />
+</p>
+
 ## OneDark's development tools
 
-A set of tools to work on OneDark
+A set of tools to work on OneDark.
 
 ### 📜 License
 
-OneDark is licensed under the [MIT license](LICENSE)
+OneDark is licensed under the [MIT license](LICENSE).
 
 ## 🙏 Acknowledgements
 
