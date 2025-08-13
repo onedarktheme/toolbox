@@ -187,7 +187,7 @@ func generateHTML(paletteName string, colors map[string]string) (string, error) 
 		}
 		h, s, l := rgbToHSL(r, g, b)
 
-		swatchPath := fmt.Sprintf("assets/palette/circles/%s-%s.png", paletteName, strings.ToLower(strings.ReplaceAll(strings.ReplaceAll(role, " ", "-"), "_", "-")))
+		swatchPath := fmt.Sprintf("https://github.com/onedarktheme/onedark/blob/master/assets/palette/circles/%s-%s.png", paletteName, strings.ToLower(strings.ReplaceAll(strings.ReplaceAll(role, " ", "-"), "_", "-")))
 
 		builder.WriteString("\t<tr>\n")
 		builder.WriteString(fmt.Sprintf("\t\t<td><img src=\"%s\" width=\"23\"/></td>\n", swatchPath))
