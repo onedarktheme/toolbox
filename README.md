@@ -17,6 +17,32 @@
 
 A set of tools to work on OneDark.
 
+## Tools
+
+### Palette to Color Swatches
+
+Generate color swatches from a JSON palette. This tool reads a JSON file containing color definitions and outputs 23x23 circle color swatches for each color, saving them as PNG files.
+```bash
+cat palettes.json | go run cmd/palette-to-color-swatches/main.go
+```
+
+You can also specify a file directly:
+```bash
+go run cmd/palette-to-color-swatches/main.go -file data/palettes.json
+```
+
+### Palette to HTML Table
+
+Generate an HTML table showing colors with their hex, RGB, and HSL values from a JSON palette.
+```bash
+cat data/palettes.json | go run cmd/palette-to-html-table/main.go
+```
+
+You can also specify a file directly:
+```bash
+go run cmd/palette-to-html-table/main.go -file data/palettes.json
+```
+
 ### 📜 License
 
 OneDark is licensed under the [MIT license](LICENSE).
